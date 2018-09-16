@@ -22,7 +22,11 @@ public class GroupeCreationTests {
 
         Login("admin", "secret");
 
+
+
     }
+
+
 
     @Test
 
@@ -30,13 +34,20 @@ public class GroupeCreationTests {
 
         GoToGroup();
         CreateNewGroupe();
-        FillNameGroup("Suicide Squad");
+        FillNameGroup("Suicide Squad 4");
         SubmitGroup();
 
         GoToGroup();
 
         DeleteGroup();
 
+        GoToGroup();
+        ButtonHome();
+
+
+    }
+    public void ButtonHome() {
+        click(By.xpath("//a[@href='./']"));
     }
 
     public void DeleteGroup() {
