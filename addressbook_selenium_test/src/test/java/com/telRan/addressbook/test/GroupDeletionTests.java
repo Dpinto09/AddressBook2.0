@@ -9,7 +9,7 @@ public class GroupDeletionTests extends TestBase {
     @BeforeMethod
     public void ensurePreconditions() {
         app.getGroupHelper().openGroupPage();
-        if (!app.isPresent()) {
+        if (!app.isGroupPresent()) {
             app.createGroup();
         }
 

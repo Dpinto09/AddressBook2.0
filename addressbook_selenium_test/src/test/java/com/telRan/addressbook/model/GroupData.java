@@ -1,14 +1,23 @@
 package com.telRan.addressbook.model;
 
 public class GroupData {
-    private final String groupHeader;
-    private final String groupFooter;
-    private final String groupName;
+    private String groupHeader;
+    private String groupFooter;
+    private String groupName;
 
-    public GroupData(String groupHeader, String groupFooter, String groupName) {
-        this.groupHeader = groupHeader;
-        this.groupFooter = groupFooter;
+    public GroupData withGroupName(String groupName) {
         this.groupName = groupName;
+        return this;
+    }
+
+    public GroupData withGroupHeader(String groupHeader) {
+        this.groupHeader = groupHeader;
+        return this;
+    }
+
+    public GroupData withGroupFooter(String groupFooter) {
+        this.groupFooter = groupFooter;
+        return this;
     }
 
     public String getGroupHeader() {
@@ -21,5 +30,14 @@ public class GroupData {
 
     public String getGroupName() {
         return groupName;
+    }
+
+    @Override
+    public String toString() {
+        return "GroupData{" +
+                "groupHeader='" + groupHeader + '\'' +
+                ", groupFooter='" + groupFooter + '\'' +
+                ", groupName='" + groupName + '\'' +
+                '}';
     }
 }

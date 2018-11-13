@@ -22,12 +22,12 @@ public class ApplicationManager {
     public void createGroup() {
 
         groupHelper.initNewGroupCreation();
-        groupHelper.fillGroupForm(new GroupData("HEADER", "FOOTER", "NAME"));
+        groupHelper.fillGroupForm(new GroupData().withGroupFooter("FOOTER1").withGroupHeader("HEADER1").withGroupName("NAME1"));
         groupHelper.confirmNewGroupCreation();
 
     }
 
-    public boolean isPresent() {
+    public boolean isGroupPresent() {
 
         return isElementPresent(By.name("selected[]"));
     }

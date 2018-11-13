@@ -9,7 +9,7 @@ public class DeleteContactTests extends TestBase {
     @BeforeMethod
     public void ensurePreconditions() {
         app.openHome();
-        if (!app.isPresent()) {
+        if (!app.isGroupPresent()) {
             app.getContactHelper().addNewContact();
         }
 
