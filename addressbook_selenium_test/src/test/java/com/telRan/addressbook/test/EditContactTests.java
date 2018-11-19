@@ -1,7 +1,6 @@
 package com.telRan.addressbook.test;
 
-import com.telRan.addressbook.dataProvider.ContactsProvider;
-import com.telRan.addressbook.dataProvider.GroupsProvider;
+import com.telRan.addressbook.dataProvider.StaticProvider;
 import com.telRan.addressbook.model.ContactData;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -16,7 +15,7 @@ public class EditContactTests extends TestBase {
         }
 
     }
-    @Test(dataProvider = "validContact", dataProviderClass = ContactsProvider.class)
+    @Test(dataProvider = "validContact", dataProviderClass = StaticProvider.class)
     public void testsContactModification(ContactData contactData){
         app.getNavigationHelper().openSite("http://localhost/addressbook/index.php");
         app.getContactHelper().editContact();

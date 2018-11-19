@@ -1,6 +1,7 @@
 package com.telRan.addressbook.test;
 
-import com.telRan.addressbook.dataProvider.GroupsProvider;
+
+import com.telRan.addressbook.dataProvider.StaticProvider;
 import com.telRan.addressbook.model.GroupData;
 import javafx.scene.Group;
 import org.testng.Assert;
@@ -15,7 +16,7 @@ import java.util.List;
 public class GroupCreationTests extends TestBase {
 
 
-    @Test(dataProvider = "validGroups", dataProviderClass = GroupsProvider.class)
+    @Test(dataProvider = "validGroups", dataProviderClass = StaticProvider.class)
     public void testGroupCreation(GroupData groupData) {
         app.getGroupHelper().openGroupPage();
         int before = app.getGroupHelper().getGroupsCount();

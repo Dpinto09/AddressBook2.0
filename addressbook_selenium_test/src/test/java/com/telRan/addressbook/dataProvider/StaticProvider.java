@@ -1,6 +1,7 @@
 package com.telRan.addressbook.dataProvider;
 
 import com.telRan.addressbook.model.ContactData;
+import com.telRan.addressbook.model.GroupData;
 import org.testng.annotations.DataProvider;
 
 import java.io.BufferedReader;
@@ -11,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ContactsProvider {
+public class StaticProvider {
     @DataProvider
     public static Iterator<Object[]> validContact() throws IOException {
         List<Object[]> list = new ArrayList<>();
@@ -24,6 +25,19 @@ public class ContactsProvider {
         }
         return list.iterator();
     }
+    @DataProvider
+    public Iterator<Object[]> validGroups() throws IOException {
 
+        List<Object[]> list = new ArrayList<>();
+        BufferedReader br = new BufferedReader(new FileReader(new File("src/test/resources/groups.csv")));
+        String line = br.readLine();
+        while (line != null) {
+            String[]split = line.split(";");
+            list.add(new Object[]{new GroupData().withGroupName(split[0]).withGroupHeader(split[1]).withGroupFooter(split[2])});
+            line = br.readLine();
+        }
+
+        return list.iterator();
+    }
 }
 

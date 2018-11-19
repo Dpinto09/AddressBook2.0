@@ -1,6 +1,6 @@
 package com.telRan.addressbook.test;
 
-import com.telRan.addressbook.dataProvider.GroupsProvider;
+import com.telRan.addressbook.dataProvider.StaticProvider;
 import com.telRan.addressbook.model.GroupData;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -16,7 +16,7 @@ public class GroupModificationTests extends TestBase {
 
     }
 
-    @Test (dataProvider = "validGroups", dataProviderClass = GroupsProvider.class)
+    @Test (dataProvider = "validGroups", dataProviderClass = StaticProvider.class)
     public void testGroupModification(GroupData groupData) {
 
         app.getGroupHelper().selectGroup();

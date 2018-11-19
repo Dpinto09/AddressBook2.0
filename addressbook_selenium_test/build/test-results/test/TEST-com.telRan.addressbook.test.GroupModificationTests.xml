@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telRan.addressbook.test.GroupModificationTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-11-15T13:15:44" hostname="LAPTOP-J2OIML8I" time="8.311">
+  <properties/>
+  <testcase name="testGroupModification[0](GroupData{groupHeader='header1', groupFooter='footer1', groupName='test1'})" classname="com.telRan.addressbook.test.GroupModificationTests" time="1.513"/>
+  <testcase name="testGroupModification[1](GroupData{groupHeader='header2', groupFooter='footer2', groupName='test2'})" classname="com.telRan.addressbook.test.GroupModificationTests" time="1.322"/>
+  <testcase name="testGroupModification[2](GroupData{groupHeader='header3', groupFooter='footer3', groupName='test3'})" classname="com.telRan.addressbook.test.GroupModificationTests" time="1.899"/>
+  <testcase name="testGroupModification[3](GroupData{groupHeader='header4', groupFooter='footer4', groupName='test4'})" classname="com.telRan.addressbook.test.GroupModificationTests" time="1.169"/>
+  <testcase name="testGroupModification[4](GroupData{groupHeader='header5', groupFooter='footer5', groupName='test5'})" classname="com.telRan.addressbook.test.GroupModificationTests" time="1.225"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 15462
+Only local connections are allowed.
+Nov 15, 2018 3:15:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

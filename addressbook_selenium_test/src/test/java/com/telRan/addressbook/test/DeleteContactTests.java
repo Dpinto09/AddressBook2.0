@@ -44,10 +44,11 @@ public class DeleteContactTests extends TestBase {
     }
 
     @Test
-    public void testsDeleteAllContacts() {
+    public void testsDeleteAllContacts() throws InterruptedException {
 
         app.getContactHelper().selectAllContacts();
         app.getContactHelper().deleteContact();
+        Thread.sleep(3000);
         app.getContactHelper().confirmAlert();
         app.openHome();
     }

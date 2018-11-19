@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telRan.addressbook.test.GroupDeletionTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-11-15T13:15:37" hostname="LAPTOP-J2OIML8I" time="1.496">
+  <properties/>
+  <testcase name="testsGroupDeletionFirst" classname="com.telRan.addressbook.test.GroupDeletionTests" time="0.74"/>
+  <testcase name="testsGroupDeletionLast" classname="com.telRan.addressbook.test.GroupDeletionTests" time="0.581"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 22672
+Only local connections are allowed.
+Nov 15, 2018 3:15:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

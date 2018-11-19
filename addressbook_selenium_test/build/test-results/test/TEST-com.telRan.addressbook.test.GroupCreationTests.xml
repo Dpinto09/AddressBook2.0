@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telRan.addressbook.test.GroupCreationTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-11-15T13:15:08" hostname="LAPTOP-J2OIML8I" time="23.429">
+  <properties/>
+  <testcase name="testGroupCreation[0](GroupData{groupHeader='header1', groupFooter='footer1', groupName='test1'})" classname="com.telRan.addressbook.test.GroupCreationTests" time="6.142"/>
+  <testcase name="testGroupCreation[1](GroupData{groupHeader='header2', groupFooter='footer2', groupName='test2'})" classname="com.telRan.addressbook.test.GroupCreationTests" time="4.436"/>
+  <testcase name="testGroupCreation[2](GroupData{groupHeader='header3', groupFooter='footer3', groupName='test3'})" classname="com.telRan.addressbook.test.GroupCreationTests" time="5.286"/>
+  <testcase name="testGroupCreation[3](GroupData{groupHeader='header4', groupFooter='footer4', groupName='test4'})" classname="com.telRan.addressbook.test.GroupCreationTests" time="4.243"/>
+  <testcase name="testGroupCreation[4](GroupData{groupHeader='header5', groupFooter='footer5', groupName='test5'})" classname="com.telRan.addressbook.test.GroupCreationTests" time="3.319"/>
+  <system-out><![CDATA[Count before is: 85
+Count after is: 86
+Count before is: 88
+Count after is: 89
+Count before is: 91
+Count after is: 92
+Count before is: 94
+Count after is: 95
+Count before is: 97
+Count after is: 98
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 21464
+Only local connections are allowed.
+Nov 15, 2018 3:15:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

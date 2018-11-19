@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telRan.addressbook.test.AddContactTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-11-15T13:13:38" hostname="LAPTOP-J2OIML8I" time="18.871">
+  <properties/>
+  <testcase name="testsAddContact[0](ContactData{firstName='Mickael', lastName='Aboulkir', address='Eli Cohen 45 Ashkelon', phoneMobile='0585162383', email='mickael.aboulkir@gmail.com'})" classname="com.telRan.addressbook.test.AddContactTests" time="12.375"/>
+  <testcase name="testsAddContact[1](ContactData{firstName='Elena', lastName='Etarnosvka', address='Between Rekhovot and Ashkelon', phoneMobile='0585248657', email=' elenaRus@gmail.com'})" classname="com.telRan.addressbook.test.AddContactTests" time="6.495"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 16413
+Only local connections are allowed.
+Nov 15, 2018 3:13:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
