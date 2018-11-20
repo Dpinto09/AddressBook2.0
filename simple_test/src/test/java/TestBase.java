@@ -1,5 +1,6 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -61,5 +62,27 @@ public class TestBase {
 
         Actions action = new Actions(wd);
         action.sendKeys(Keys.BACK_SPACE).build().perform();
+    }
+
+    public boolean isTitlePresent() {
+
+        return isElementPresent(By.xpath("//h1[@class='entry-title']"));
+
+    }
+
+    public boolean isElementPresent(By locator) {
+
+        try {
+
+            wd.findElement(locator);
+
+            return true;
+
+        } catch (NoSuchElementException e) {
+
+            return false;
+
+        }
+
     }
 }

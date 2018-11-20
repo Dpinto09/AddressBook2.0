@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89d3bec-2a2f-4016-b053-4bd4328ab675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rep_addressBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rep_addressBook_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/rep_addressBook_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/simple_test_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/ApplicationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/ContactHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/GroupHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/HelperBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/NavigationHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/SessionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/model/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/provider/StaticProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactCreationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactDeletionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactModificationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/GroupCreationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/GroupDeletionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/GroupModificationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/contact.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/groups.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_test/src/test/java/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/ApplicationManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/ApplicationManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/manager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/test/AddContactTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/test/AddContactTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/test/DeleteContactTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/out/test/classes/com/telRan/addressbook/test/DeleteContactTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/AddContactTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/AddContactTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/DeleteContactTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/DeleteContactTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_test/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple_test/src/test/java/TestBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/build/" />
@@ -107,7 +68,7 @@
           <entry key="csv" value="207" />
           <entry key="dummy" value="107" />
           <entry key="gradle" value="24" />
-          <entry key="java" value="11343" />
+          <entry key="java" value="12007" />
           <entry key="xml" value="82" />
         </counts>
       </usages-collector>
@@ -123,7 +84,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="24" />
-          <entry key="JAVA" value="11343" />
+          <entry key="JAVA" value="12007" />
           <entry key="PLAIN_TEXT" value="314" />
           <entry key="XML" value="82" />
         </counts>
@@ -144,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+            <state relative-caret-position="1377">
+              <caret line="155" column="69" selection-start-line="155" selection-start-column="69" selection-end-line="155" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+            <state relative-caret-position="107">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#616#617#0" expanded="true" />
@@ -1130,7 +1091,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-15" />
     <option name="width" value="1630" />
     <option name="height" value="1740" />
@@ -1315,7 +1276,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542732051425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542751214069" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1349,7 +1310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FirstSimple.listInteractionsSection">
+  <component name="RunManager" selected="TestNG.FirstSimple.listWidgetsSection">
     <configuration name="FirstSimple" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="simple_test_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -1396,11 +1357,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSimple.listSectionLeftMenu" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FirstSimple.listWidgetsSection" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="simple_test_test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FirstSimple" />
-      <option name="METHOD_NAME" value="listSectionLeftMenu" />
+      <option name="METHOD_NAME" value="listWidgetsSection" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -1409,19 +1370,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.FirstSimple.listSectionLeftMenu" />
       <item itemvalue="TestNG.FirstSimple.listLeftMenuSubMenu" />
       <item itemvalue="TestNG.FirstSimple.listAllLeftMenu" />
       <item itemvalue="TestNG.FirstSimple" />
       <item itemvalue="TestNG.FirstSimple.listInteractionsSection" />
+      <item itemvalue="TestNG.FirstSimple.listWidgetsSection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FirstSimple.listWidgetsSection" />
         <item itemvalue="TestNG.FirstSimple.listInteractionsSection" />
-        <item itemvalue="TestNG.FirstSimple" />
         <item itemvalue="TestNG.FirstSimple.listAllLeftMenu" />
+        <item itemvalue="TestNG.FirstSimple" />
         <item itemvalue="TestNG.FirstSimple.listLeftMenuSubMenu" />
-        <item itemvalue="TestNG.FirstSimple.listSectionLeftMenu" />
       </list>
     </recent_temporary>
   </component>
@@ -1439,40 +1400,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 34m 05s.xml">
+    <history-entry file="FirstSimple_listAllLeftMenu - 2018.11.20 at 19h 29m 37s.xml">
+      <configuration name="FirstSimple.listAllLeftMenu" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstSimple_listAllLeftMenu - 2018.11.20 at 19h 33m 11s.xml">
+      <configuration name="FirstSimple.listAllLeftMenu" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstSimple_listAllLeftMenu - 2018.11.20 at 19h 34m 14s.xml">
+      <configuration name="FirstSimple.listAllLeftMenu" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstSimple_listAllLeftMenu - 2018.11.20 at 19h 37m 10s.xml">
+      <configuration name="FirstSimple.listAllLeftMenu" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 19h 53m 36s.xml">
       <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 34m 46s.xml">
+    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 19h 55m 03s.xml">
       <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 37m 06s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
+    <history-entry file="FirstSimple_listWidgetsSection - 2018.11.20 at 19h 57m 34s.xml">
+      <configuration name="FirstSimple.listWidgetsSection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 37m 45s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
+    <history-entry file="FirstSimple_listWidgetsSection - 2018.11.20 at 19h 58m 44s.xml">
+      <configuration name="FirstSimple.listWidgetsSection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 41m 36s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
+    <history-entry file="FirstSimple_listWidgetsSection - 2018.11.20 at 20h 00m 31s.xml">
+      <configuration name="FirstSimple.listWidgetsSection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 51m 44s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 17h 57m 52s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 18h 22m 12s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 18h 22m 42s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FirstSimple_listInteractionsSection - 2018.11.20 at 18h 40m 20s.xml">
-      <configuration name="FirstSimple.listInteractionsSection" configurationId="TestNG" />
+    <history-entry file="FirstSimple_listWidgetsSection - 2018.11.20 at 20h 03m 04s.xml">
+      <configuration name="FirstSimple.listWidgetsSection" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="702" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1293" height="702" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06477733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24939272" />
@@ -1921,8 +1881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="107">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#616#617#0" expanded="true" />
@@ -1935,8 +1895,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="98" column="22" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
+        <state relative-caret-position="1377">
+          <caret line="155" column="69" selection-start-line="155" selection-start-column="69" selection-end-line="155" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
