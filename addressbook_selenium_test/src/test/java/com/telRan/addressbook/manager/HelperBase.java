@@ -18,9 +18,11 @@ public class HelperBase {
     }
 
     public void type(By locator, String text) {
-        wd.findElement(locator).click();
-        wd.findElement(locator).clear();
-        wd.findElement(locator).sendKeys(text);
+        if (text != null) {
+            wd.findElement(locator).click();
+            wd.findElement(locator).clear();
+            wd.findElement(locator).sendKeys(text);
+        }
     }
 
     public boolean isElementPresent(By locator) {
@@ -32,7 +34,7 @@ public class HelperBase {
         }
     }
 
-    public boolean isGroupHelper(){
+    public boolean isGroupHelper() {
 
         return isElementPresent(By.name("selected[]"));
     }

@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_selenium_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_selenium_test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_selenium_test_main.iml" group="addressbook_selenium_test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook_selenium_test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook_selenium_test_test.iml" group="addressbook_selenium_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rep_addressBook.iml" filepath="$PROJECT_DIR$/.idea/modules/rep_addressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rep_addressBook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rep_addressBook_main.iml" group="rep_addressBook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rep_addressBook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rep_addressBook_test.iml" group="rep_addressBook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple_test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple_test_main.iml" group="simple_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple_test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple_test_test.iml" group="simple_test" />
     </modules>
   </component>
 </project>

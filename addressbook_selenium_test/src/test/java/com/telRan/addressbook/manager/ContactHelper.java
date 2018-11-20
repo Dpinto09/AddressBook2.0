@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 
 public class ContactHelper extends HelperBase {
 
-    WebDriver wd;
+
 
     public ContactHelper(WebDriver wd) {
         super(wd);
@@ -18,16 +18,19 @@ public class ContactHelper extends HelperBase {
     }
 
     public void fillNewContactForm(ContactData contactData) {
-
+        click(By.xpath("//a[@href='edit.php']"));
         type(By.name("firstname"), contactData.getFirstName());
         type(By.name("lastname"), contactData.getLastName());
         type(By.name("address"), contactData.getAddress());
         type(By.name("mobile"), contactData.getPhoneMobile());
         type(By.name("email"), contactData.getEmail());
+        submitNewContact();
+
     }
 
     public void addNewContact() {
        click(By.xpath("//a[@href='edit.php']"));
+
     }
 
     public void submitEditContact() {
@@ -62,6 +65,6 @@ public class ContactHelper extends HelperBase {
     }
 
     public void selectAllContacts() {
-        click(By.xpath("//input[@id='MassCB']"));
+        click(By.id("MassCB"));
     }
 }

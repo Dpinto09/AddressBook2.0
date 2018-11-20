@@ -26,6 +26,10 @@ public class ApplicationManager {
         groupHelper.confirmNewGroupCreation();
 
     }
+    public boolean isContactPresent() {
+
+        return isElementPresent(By.name("selected[]"));
+    }
 
     public boolean isGroupPresent() {
 
@@ -55,7 +59,7 @@ public class ApplicationManager {
         wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         navigationHelper = new NavigationHelper(wd);
         navigationHelper.openSite("http://localhost/addressbook/index.php");
-        
+
         sessionHelper = new SessionHelper(wd);
 
         sessionHelper.login("admin", "secret");

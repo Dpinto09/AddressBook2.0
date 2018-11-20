@@ -15,9 +15,6 @@ public class AddContactTests extends TestBase {
         app.getContactHelper().fillNewContactForm(contactData);
         app.getContactHelper().submitNewContact();
 
-        app.getContactHelper().addNewContact();
-        app.getContactHelper().fillNewContactForm(contactData);
-        app.getContactHelper().submitNewContact();
 
     }
 
