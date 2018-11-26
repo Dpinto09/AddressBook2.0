@@ -1,6 +1,8 @@
 package com.telran.repeat.model;
 
 
+import java.io.File;
+
 public class Contact {
 
     private String fName;
@@ -12,7 +14,9 @@ public class Contact {
     private String email;
 
     private String phoneHome;
-
+    private String birthday;
+    private String group;
+    private File photo;
 
     @Override
 
@@ -29,11 +33,25 @@ public class Contact {
                 ", email='" + email + '\'' +
 
                 ", phoneHome='" + phoneHome + '\'' +
+                ",group='" + group + '\'' +
 
                 '}';
 
     }
 
+
+    public Contact setBirthday(String birthday) {
+        this.birthday = birthday;
+        return this;
+
+    }
+
+    public Contact setGroup(String group) {
+
+        this.group = group;
+        return this;
+
+    }
 
     public Contact setfName(String fName) {
 
@@ -114,4 +132,22 @@ public class Contact {
 
     }
 
+    public String getGroup(){
+
+        return group;
+    }
+
+    public String getBirthday() {
+        return birthday;
+    }
+
+
+    public File getPhoto() {
+        return photo;
+    }
+
+    public Contact setPhoto(File photo) {
+        this.photo = photo;
+        return this;
+    }
 }

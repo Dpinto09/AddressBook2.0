@@ -1,3 +1,5 @@
+package com.telran.simple.list;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
@@ -7,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-public class TestBase {
+public class TestBaseList {
     WebDriver wd;
 
     @BeforeMethod

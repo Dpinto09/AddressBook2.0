@@ -7,7 +7,7 @@ import com.telran.repeat.model.Contact;
 import org.openqa.selenium.By;
 
 import org.openqa.selenium.WebDriver;
-
+import org.openqa.selenium.support.ui.Select;
 
 
 public class ContactHelper extends HelperBase{
@@ -39,6 +39,13 @@ public class ContactHelper extends HelperBase{
         type(By.name("address"), contact.getAddress());
 
         type(By.name("email"), contact.getEmail());
+
+        new Select(wd.findElement(By.name("bday"))).selectByVisibleText("21");
+        new Select(wd.findElement(By.name("bmonth"))).selectByVisibleText("FEBRUARY");
+        type(By.name("byear"),"1992");
+
+        new Select(wd.findElement(By.name("new_group"))).selectByVisibleText(contact.getGroup());
+        attach(By.name("photo"),contact.getPhoto());
 
         type(By.name("home"), contact.getPhoneHome());
 

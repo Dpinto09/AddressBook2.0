@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="addressbook_selenium_test_main" target="1.8" />
       <module name="addressbook_selenium_test_test" target="1.8" />
+      <module name="HomeworksTrelloMishpahugSofa_main" target="1.8" />
+      <module name="HomeworksTrelloMishpahugSofa_test" target="1.8" />
       <module name="rep_addressBook_main" target="1.8" />
       <module name="rep_addressBook_test" target="1.8" />
       <module name="simple_test_main" target="1.8" />

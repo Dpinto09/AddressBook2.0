@@ -4,6 +4,16 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook_selenium_test" />
         <option name="gradleJvm" value="1.8" />
         <option name="modules">

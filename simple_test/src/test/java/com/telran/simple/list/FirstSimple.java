@@ -1,15 +1,14 @@
+package com.telran.simple.list;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import javax.swing.*;
 import java.util.List;
 
-public class FirstSimple extends TestBase {
+public class FirstSimple extends TestBaseList {
 
     @Test
     public void searchTestWithGlass() {
@@ -63,7 +62,7 @@ public class FirstSimple extends TestBase {
         int sizeMenu = menu.size();
         System.out.println(sizeMenu);
 
-        for(WebElement list:menu){
+        for (WebElement list : menu) {
 
             String title = list.getText();
             System.out.println(title);
@@ -76,9 +75,14 @@ public class FirstSimple extends TestBase {
 
         openSite("https://jqueryui.com");
         List<WebElement> subMenu = wd.findElements(By.xpath("//aside[@class='widget']//h3[@class='widget-title']"));
-
         int sizeSubMenu = subMenu.size();
         System.out.println(sizeSubMenu);
+
+        List<WebElement> sections = wd.findElements(By.xpath("//aside//li"));
+
+        int sizeSections = sections.size();
+        System.out.println(sizeSections);
+
 
         for (WebElement sectionsLeftMenu : subMenu) {
 
@@ -87,6 +91,8 @@ public class FirstSimple extends TestBase {
 
         }
         Assert.assertEquals(sizeSubMenu, 4);
+
+
     }
 
     @Test
@@ -97,13 +103,13 @@ public class FirstSimple extends TestBase {
 
         for (int i = 1; i < interactionsSections.size(); i++) {
 
-            WebElement pageTitle = wd.findElement(By.xpath("//aside[1]//ul//li["+i+"]"));
+            WebElement pageTitle = wd.findElement(By.xpath("//aside[1]//ul//li[" + i + "]"));
             pageTitle.click();
             Thread.sleep(3000);
             back();
 
         }
-        Assert.assertEquals(interactionsSections.size(),5);
+        Assert.assertEquals(interactionsSections.size(), 5);
 
     }
 
@@ -115,7 +121,7 @@ public class FirstSimple extends TestBase {
 
         for (int i = 1; i < widgetsSections.size(); i++) {
 
-            WebElement pageTitle = wd.findElement(By.xpath("//aside[2]//ul//li["+i+"]"));
+            WebElement pageTitle = wd.findElement(By.xpath("//aside[2]//ul//li[" + i + "]"));
             String title = pageTitle.getText();
             System.out.println(title);
             pageTitle.click();
@@ -123,7 +129,7 @@ public class FirstSimple extends TestBase {
             back();
 
         }
-        Assert.assertEquals(widgetsSections.size(),14);
+        Assert.assertEquals(widgetsSections.size(), 14);
 
     }
 
@@ -135,13 +141,13 @@ public class FirstSimple extends TestBase {
 
         for (int i = 1; i < effectsSections.size(); i++) {
 
-            WebElement pageTitle = wd.findElement(By.xpath("//aside[3]//ul//li["+i+"]"));
+            WebElement pageTitle = wd.findElement(By.xpath("//aside[3]//ul//li[" + i + "]"));
             pageTitle.click();
             Thread.sleep(3000);
             back();
 
         }
-        Assert.assertEquals(effectsSections.size(),10);
+        Assert.assertEquals(effectsSections.size(), 10);
 
     }
 
@@ -153,13 +159,13 @@ public class FirstSimple extends TestBase {
 
         for (int i = 1; i < utilitiesSections.size(); i++) {
 
-            WebElement pageTitle = wd.findElement(By.xpath("//aside[4]//ul//li["+i+"]"));
+            WebElement pageTitle = wd.findElement(By.xpath("//aside[4]//ul//li[" + i + "]"));
             pageTitle.click();
             Thread.sleep(3000);
             back();
 
         }
-        Assert.assertEquals(utilitiesSections.size(),2);
+        Assert.assertEquals(utilitiesSections.size(), 2);
 
     }
 
