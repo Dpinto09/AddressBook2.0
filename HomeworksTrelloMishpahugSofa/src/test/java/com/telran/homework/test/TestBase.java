@@ -1,7 +1,7 @@
 package com.telran.homework.test;
 
 import com.telran.homework.model.LoginData;
-import com.telran.homework.model.MishpaHug;
+
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -53,6 +53,7 @@ public class TestBase {
     public void fillLoginForm(LoginData loginData) {
         type(By.xpath("//input[@formcontrolname='email']"), loginData.getEmail() );
         type(By.xpath("//input[@formcontrolname='password']"), loginData.getPassword());
+        submitLogin();
 
     }
 
@@ -68,9 +69,8 @@ public class TestBase {
         }
     }
     public void attach(By locator, File file) {
-        if (file != null) {
+
             wd.findElement(locator).sendKeys(file.getAbsolutePath());
-        }
     }
 
     public void click(By locator) {
@@ -89,18 +89,23 @@ public class TestBase {
 
     public void saveProfile() {
 
-        click(By.xpath("//button[@type='submit']"));
+        click(By.xpath("//span[contains(text(),'Save')]"));
     }
 
-    public void insertEventPicture(MishpaHug eventPicture)  {
-        attach(By.xpath("//div[@class='upload_button_holder']//button[2]"),eventPicture.getPhotoEvent());
+    public void insertEventPicture() throws InterruptedException {
+        click(By.xpath("//button[@class='banner']"));
+         attach(By.xpath("//input[@type='file']"), new File("src/test/resources/events.png"));
+         wait3000();
+        confirmPicture();
 
     }
 
-    public void insertProfilePicture(MishpaHug profilePicture){
+    public void insertProfilePicture() throws InterruptedException {
 
         click(By.xpath("//button[@class='avatar']"));
-        attach(By.xpath("//div[@class='upload_button_holder']//button[2]"), profilePicture.getPhotoProfile());
+        attach(By.xpath("//input[@type='file']"),new File("src/test/resources/avatar.jpg"));
+        wait3000();
+        confirmPicture();
 
     }
 
@@ -114,9 +119,10 @@ public class TestBase {
         return isElementPresent(By.xpath("//span[contains(text(),'Change')]"));
     }
 
-    public void goToProfile() {
+    public void goToProfile() throws InterruptedException {
         clickOnHamburger();
-        click(By.xpath("//span[contains(text(),'Profile')]"));
+        wait3000();
+        click(By.xpath("//mat-icon[contains(text(),'person')]"));
     }
 
     public void clickOnHamburger() {

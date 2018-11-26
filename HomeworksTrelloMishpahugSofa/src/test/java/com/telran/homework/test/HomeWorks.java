@@ -1,7 +1,7 @@
 package com.telran.homework.test;
 
 import com.telran.homework.model.LoginData;
-import com.telran.homework.model.MishpaHug;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -27,10 +27,10 @@ public class HomeWorks extends TestBase {
             wait3000();
             modifyProfile();
             wait3000();
-            insertEventPicture(new MishpaHug().setPhotoEvent(new File("src/test/resource/events.png")));
-            confirmPicture();
-            saveProfile();
+            insertEventPicture();
             wait3000();
+            saveProfile();
+
         }
     }
 
@@ -40,8 +40,7 @@ public class HomeWorks extends TestBase {
         openSite("https://mish.sheygam.com/#/wellcome");
         clickOnLogin();
         wait3000();
-        fillLoginForm(new LoginData().setEmail("").setPassword(""));
-        submitLogin();
+        fillLoginForm(new LoginData().setEmail("dvd.090909@gmail.com").setPassword("123456789"));
         wait3000();
         goToProfile();
         wait3000();
@@ -49,11 +48,9 @@ public class HomeWorks extends TestBase {
             wait3000();
             modifyProfile();
             wait3000();
-            insertProfilePicture(new MishpaHug().setPhotoProfile(new File("src/test/resources/avatar.jpg")));
+            insertProfilePicture();
             wait3000();
-            confirmPicture();
             saveProfile();
-            wait3000();
 
         }
     }

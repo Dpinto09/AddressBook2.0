@@ -2,39 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89d3bec-2a2f-4016-b053-4bd4328ab675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HomeworksTrelloMishpahugSofa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HomeworksTrelloMishpahugSofa_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HomeworksTrelloMishpahugSofa_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/LoginData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/MishpaHug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/resources/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/resources/events.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/ButtonActivateInProfilPage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/actions/DraggableDroppable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/actions/Resize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/actions/TestBaseActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/manager/ContactHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/manager/ContactHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/manager/HelperBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/manager/HelperBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/model/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/model/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/test/ContactCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/test/ContactCreationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/test/GroupCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/classes/com/telran/repeat/test/GroupCreationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/out/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/out/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/ContactHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/ContactHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/model/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactCreationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/GroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/GroupCreationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_test/out/test/classes/FirstSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_test/out/test/classes/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_test/src/test/java/FirstSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/list/FirstSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_test/src/test/java/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/model/MishpaHug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/HomeWorks.class" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/HomeWorks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/MishpaHug.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/build/" />
@@ -96,7 +70,7 @@
           <entry key="csv" value="3" />
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="10" />
-          <entry key="java" value="166" />
+          <entry key="java" value="168" />
           <entry key="png" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -106,7 +80,7 @@
           <entry key="csv" value="207" />
           <entry key="dummy" value="127" />
           <entry key="gradle" value="25" />
-          <entry key="java" value="19003" />
+          <entry key="java" value="19283" />
           <entry key="xml" value="104" />
         </counts>
       </usages-collector>
@@ -114,7 +88,7 @@
         <counts>
           <entry key="Groovy" value="10" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="166" />
+          <entry key="JAVA" value="168" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="3" />
         </counts>
@@ -123,7 +97,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="25" />
-          <entry key="JAVA" value="19003" />
+          <entry key="JAVA" value="19283" />
           <entry key="PLAIN_TEXT" value="334" />
           <entry key="XML" value="104" />
         </counts>
@@ -135,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="101">
+              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2026#2027#0" expanded="true" />
@@ -155,40 +129,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/LoginData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/MishpaHug.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/list/FirstSimple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1632">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="101">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1784,7 +1728,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543220838168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543226238131" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1921,10 +1865,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomeWorks.testAddPictureEventMishpaHug" />
+        <item itemvalue="TestNG.HomeWorks.testAddPictureProfileMishpaHug" />
         <item itemvalue="TestNG.HomeWorks.testMoveToElementTrello" />
         <item itemvalue="TestNG.HomeWorks.testDragAndDropTrello" />
         <item itemvalue="TestNG.ContactCreationTest.createContactTest2" />
-        <item itemvalue="TestNG.HomeWorks.testAddPictureProfileMishpaHug" />
       </list>
     </recent_temporary>
   </component>
@@ -1942,34 +1886,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 15h 14m 35s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 38m 56s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 15h 22m 41s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 40m 08s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 19h 59m 13s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 41m 39s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 20h 02m 45s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 44m 58s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 21h 53m 11s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 45m 40s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.25 at 22h 08m 55s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 46m 13s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 10h 00m 18s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 48m 00s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testAddPictureEventMishpaHug - 2018.11.26 at 10h 26m 03s.xml">
-      <configuration name="HomeWorks.testAddPictureEventMishpaHug" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 49m 49s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testAddPictureEventMishpaHug - 2018.11.26 at 10h 26m 58s.xml">
-      <configuration name="HomeWorks.testAddPictureEventMishpaHug" configurationId="TestNG" />
+    <history-entry file="HomeWorks_testAddPictureProfileMishpaHug - 2018.11.26 at 11h 52m 03s.xml">
+      <configuration name="HomeWorks.testAddPictureProfileMishpaHug" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomeWorks_testAddPictureEventMishpaHug - 2018.11.26 at 10h 27m 47s.xml">
+    <history-entry file="HomeWorks_testAddPictureEventMishpaHug - 2018.11.26 at 11h 54m 43s.xml">
       <configuration name="HomeWorks.testAddPictureEventMishpaHug" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -1986,7 +1930,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924694" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5691769" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38528895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40425533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2417,17 +2361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="554" column="18" selection-start-line="554" selection-start-column="18" selection-end-line="554" selection-end-column="18" />
-          <folding>
-            <element signature="e#23018#23019#0" expanded="true" />
-            <element signature="e#23057#23058#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -2483,15 +2416,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/MishpaHug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="68">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="554" column="18" selection-start-line="554" selection-start-column="18" selection-end-line="554" selection-end-column="18" />
+          <folding>
+            <element signature="e#23018#23019#0" expanded="true" />
+            <element signature="e#23057#23058#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="101">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2500,8 +2444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="101">
+          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2026#2027#0" expanded="true" />
