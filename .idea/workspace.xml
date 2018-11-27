@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89d3bec-2a2f-4016-b053-4bd4328ab675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/HomeWorks.class" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/out/test/classes/com/telran/homework/test/HomeWorks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rep_addressBook/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/.gradle/" />
     <ignored path="$PROJECT_DIR$/addressbook_selenium_test/build/" />
@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="97" column="11" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
+            <state relative-caret-position="1309">
+              <caret line="94" column="24" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,14 +60,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="95" column="50" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+            <state relative-caret-position="18">
+              <caret line="127" selection-start-line="127" selection-end-line="133" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#4767#4768#0" expanded="true" />
+                <element signature="e#4832#4833#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="18" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -99,14 +110,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/EditContactTests.java" />
         <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/HelperBase.java" />
         <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/DeleteContactTests.java" />
         <option value="$PROJECT_DIR$/simple_test/build.gradle" />
         <option value="$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/AddContactTests.java" />
-        <option value="$PROJECT_DIR$/rep_addressBook/build.gradle" />
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/ContactCreationTest.java" />
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/provider/StaticProvider.java" />
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/model/Group.java" />
@@ -140,8 +149,6 @@
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/manager/HelperBase.java" />
         <option value="$PROJECT_DIR$/rep_addressBook/src/test/java/com/telran/repeat/test/ContactCreationTest.java" />
-        <option value="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle" />
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/TestBase.java" />
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/Homeworks.java" />
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/Mishpahug.java" />
@@ -150,13 +157,18 @@
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/model/MishpaHug.java" />
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java" />
         <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java" />
+        <option value="$PROJECT_DIR$/rep_addressBook/build.gradle" />
+        <option value="$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/resources/testng" />
+        <option value="$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1585" />
-    <option name="width" value="1630" />
-    <option name="height" value="1740" />
+    <option name="x" value="1450" />
+    <option name="y" value="-30" />
+    <option name="width" value="845" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,24 +188,6 @@
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="test-results" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="test-results" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -206,178 +199,54 @@
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
-              <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addressbook_selenium_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="HomeworksTrelloMishpahugSofa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeat" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeat" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repeat" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rep_addressBook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addressbook_selenium_test" type="b2602c69:ProjectViewProjectNode" />
@@ -432,31 +301,32 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543237548642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543315398092" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Addressbook2.0-1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-      <recent name="com.telRan.addressbook.manager" />
-      <recent name="com.telRan.addressbook" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\HomeworksTrelloMishpahugSofa\src\test\resources" />
+      <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\rep_addressBook\src\test\resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\HomeworksTrelloMishpahugSofa\src\test\resources" />
       <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\addressbook_selenium_test\src\test\resources" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\HomeworksTrelloMishpahugSofa\src\test\resources" />
-      <recent name="C:\Users\David Pinto\Documents\GitHub\AddressBook2.0\rep_addressBook\src\test\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="com.telRan.addressbook.manager" />
+      <recent name="com.telRan.addressbook" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -472,18 +342,16 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.HomeWorks.testMoveToElementTrello">
-    <configuration name="ContactCreationTest.createContactTest2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="rep_addressBook_test" />
+    <configuration name="HomeWorks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeworksTrelloMishpahugSofa_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.telran.repeat.test.*" />
+          <option name="PATTERN" value="com.telran.homework.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.telran.repeat.test" />
-      <option name="MAIN_CLASS_NAME" value="com.telran.repeat.test.ContactCreationTest" />
-      <option name="METHOD_NAME" value="createContactTest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.telran.homework.test" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.homework.test.HomeWorks" />
       <properties />
       <listeners />
       <method v="2">
@@ -565,17 +433,17 @@
     <list>
       <item itemvalue="TestNG.HomeWorks.testAddPictureProfileMishpaHug" />
       <item itemvalue="TestNG.HomeWorks.testAddPictureEventMishpaHug" />
-      <item itemvalue="TestNG.ContactCreationTest.createContactTest2" />
       <item itemvalue="TestNG.HomeWorks.testDragAndDropTrello" />
       <item itemvalue="TestNG.HomeWorks.testMoveToElementTrello" />
+      <item itemvalue="TestNG.HomeWorks" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomeWorks.testMoveToElementTrello" />
+        <item itemvalue="TestNG.HomeWorks" />
         <item itemvalue="TestNG.HomeWorks.testAddPictureEventMishpaHug" />
         <item itemvalue="TestNG.HomeWorks.testAddPictureProfileMishpaHug" />
         <item itemvalue="TestNG.HomeWorks.testDragAndDropTrello" />
-        <item itemvalue="TestNG.ContactCreationTest.createContactTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -593,15 +461,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 14h 03m 10s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 14h 04m 34s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 14h 07m 45s.xml">
-      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 14h 12m 23s.xml">
       <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
     </history-entry>
@@ -623,11 +482,20 @@
     <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.26 at 15h 05m 19s.xml">
       <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomeWorks - 2018.11.26 at 15h 17m 05s.xml">
+      <configuration name="HomeWorks" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.27 at 10h 16m 58s.xml">
+      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorks_testMoveToElementTrello - 2018.11.27 at 10h 18m 37s.xml">
+      <configuration name="HomeWorks.testMoveToElementTrello" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="702" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16437247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16680162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24939272" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -636,7 +504,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924694" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40425533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,37 +557,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/test/GroupModificationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/NavigationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/SessionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/java/com/telRan/addressbook/manager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -768,13 +605,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rep_addressBook/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -885,31 +715,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/actions/Index.java" />
     <entry file="file://$PROJECT_DIR$/simple_test/src/test/java/com/telran/simple/actions/Droppable.java" />
-    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_test/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -1092,8 +901,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="97" column="11" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
+        <state relative-caret-position="1309">
+          <caret line="94" column="24" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1110,13 +919,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rep_addressBook/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/java/com/telran/homework/test/HomeWorks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="95" column="50" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+        <state relative-caret-position="18">
+          <caret line="127" selection-start-line="127" selection-end-line="133" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4767#4768#0" expanded="true" />
+            <element signature="e#4832#4833#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rep_addressBook/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/src/test/resources/testng">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeworksTrelloMishpahugSofa/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addressbook_selenium_test/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="18" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1186,6 +1042,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Gradle: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
