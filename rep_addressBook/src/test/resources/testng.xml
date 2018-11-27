@@ -3,7 +3,7 @@
 <suite name="HomeworksTrelloMishpaHug" verbose="1" >
     <test name="Trello" >
         <classes>
-            <class name="com.telran."/>
+            <class name="com.telran.repeat.test.GroupCreationTest"/>
             <class name="com.telran.repeat.test.GroupModificationTest"/>
             <class name="com.telran.repeat.test.GroupDeletionTest"/>
         </classes>

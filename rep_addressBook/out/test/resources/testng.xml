@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="AddressBookTest" verbose="1" >
-    <test name="Groups" >
+<suite name="HomeworksTrelloMishpaHug" verbose="1" >
+    <test name="Trello" >
         <classes>
             <class name="com.telran.repeat.test.GroupCreationTest"/>
             <class name="com.telran.repeat.test.GroupModificationTest"/>
